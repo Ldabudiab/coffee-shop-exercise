@@ -1,0 +1,29 @@
+header{
+
+    text-align: center;
+}
+
+.list{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+color: rgb(255, 255, 255);
+}
+
+.shop
+{
+
+border: 1px solid black;
+flex-basis: 30%;
+background-color: rgb(235, 172, 79);
+}
+
+.links
+{
+
+    display: flex;
+    justify-content: space-evenly;
+    color: cornsilk;
+}
+
